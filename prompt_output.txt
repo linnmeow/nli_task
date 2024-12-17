@@ -1,0 +1,367 @@
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. Two women are embracing while holding to go packages. </s> The sisters are hugging goodbye while holding to go packages after just eating lunch.
+Label: Entailment
+
+2. Two women are embracing while holding to go packages. </s> Two woman are holding packages.
+Label: Neutral
+
+3. Two women are embracing while holding to go packages. </s> The men are fighting outside a deli.
+Label: Contradiction
+
+4. Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink. </s> Two kids in numbered jerseys wash their hands.
+Label: Entailment
+
+5. Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink. </s> Two kids at a ballgame wash their hands.
+Label: Neutral
+
+I hope this helps! Let me know if you have any further questions.
+Sure, I'd be happy to help! Here are the labels for each of the sentence pairs:
+
+1. Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.
+Label: Neutral
+2. Two kids in jackets walk to school.
+Label: Entailment
+3. A man selling donuts to a customer during a world exhibition event held in the city of Angeles
+Label: Entailment
+4. A woman drinks her coffee in a small cafe.
+Label: Neutral
+5. Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.
+Label: Entailment
+
+I hope this helps! Let me know if you have any other questions.
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. Two young boys of opposing teams play football, while wearing full protection uniforms and helmets. </s> dog eats out of bowl
+Label: Neutral
+
+The premise and hypothesis do not have a clear relationship, so the label is Neutral.
+
+2. Two young boys of opposing teams play football, while wearing full protection uniforms and helmets. </s> boys scoring a touchdown
+Label: Entailment
+
+The premise logically implies the hypothesis, as the boys playing football in full protection uniforms and helmets is likely to result in them scoring a touchdown.
+
+3. A man in a blue shirt standing in front of a garage-like structure painted with geometric designs. </s> A man is repainting a garage
+Label: Entailment
+
+The premise logically implies the hypothesis, as a man standing in front of a garage-like structure with geometric designs is likely to be repainting it.
+
+4. A man in a blue shirt standing in front of a garage-like structure painted with geometric designs. </s> A man is wearing a blue shirt
+Label: Neutral
+
+There is no clear relationship between the premise and hypothesis, so the label is Neutral.
+
+5. A man in a blue shirt standing in front of a garage-like structure painted with geometric designs. </s> A man is wearing a black shirt
+Label: Contradiction
+
+The hypothesis is incompatible with the premise, as a man wearing a blue shirt standing in front of a garage-like structure with geometric designs is unlikely to be wearing a black shirt.
+Sure, I'd be happy to help! Here are the labels for each of the sentence pairs you provided:
+
+1. Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.
+Label: Entailment
+2. A child is reaching to touch the propeller of a plane.
+Label: Entailment
+3. A child is playing with a ball.
+Label: Neutral
+4. A woman is doing a cartwheel.
+Label: Entailment
+5. A woman is doing a cartwheel while wearing a bikini in the sand next to the beach.
+Label: Entailment
+
+I hope this helps! Let me know if you have any other questions.
+Sure, I'd be happy to help! Here are the labels for each of the sentence pairs:
+
+1. A woman is doing a cartwheel while wearing a bikini in the sand next to the beach. </s> A woman is doing a cartwheel and falls on her head.
+Label: Contradiction
+
+2. Two men on bicycles competing in a race. </s> People are riding bikes.
+Label: Entailment
+
+3. Two men on bicycles competing in a race. </s> Men are riding bicycles on the street.
+Label: Entailment
+
+4. Two men on bicycles competing in a race. </s> A few people are catching fish.
+Label: Neutral
+
+5. A young boy in a field of flowers carrying a ball </s> boy leaving baseball game
+Label: Neutral
+
+I hope this helps! Let me know if you have any other questions.
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. A young boy in a field of flowers carrying a ball </s> boy in field
+Label: Neutral
+2. A young boy in a field of flowers carrying a ball </s> dog in pool
+Label: Contradiction
+3. Families waiting in line at an amusement park for their turn to ride. </s> The restaurant is very bad.
+Label: Entailment
+4. Families waiting in line at an amusement park for their turn to ride. </s> People are waiting in line at a restaurant.
+Label: Entailment
+5. Families waiting in line at an amusement park for their turn to ride. </s> People are waiting to see a movie.
+Label: Neutral
+
+Assistant: These are the predicted labels for each sentence pair. Please let me know if you have any further questions or if there's anything else I can help with!
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. A senior is waiting at the window of a restaurant that serves sandwiches. </s> A person waits to be served his food.
+Label: Entailment
+
+2. A senior is waiting at the window of a restaurant that serves sandwiches. </s> A man is waiting in line for the bus.
+Label: Contradiction
+
+3. A senior is waiting at the window of a restaurant that serves sandwiches. </s> A man is looking to order a grilled cheese sandwich.
+Label: Neutral
+
+4. Man in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him. </s> A person in a suit
+Label: Entailment
+
+5. Man in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him. </s> Nobody has a suit
+Label: Contradiction
+
+I hope this helps! Let me know if you have any other questions.
+Sure, I'd be happy to help! Here are the labels for each of the sentence pairs:
+
+1. Man in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him. </s> A tall person in a suit
+
+Label: Entailment
+
+2. Two women having drinks and smoking cigarettes at the bar. </s> Two women are at a bar.
+
+Label: Entailment
+
+3. Two women having drinks and smoking cigarettes at the bar. </s> Three women are at a bar.
+
+Label: Neutral
+
+4. Two women having drinks and smoking cigarettes at the bar. </s> Women are celebrating at a bar.
+
+Label: Entailment
+
+5. At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera. </s> A single man is next to a camera
+
+Label: Contradiction
+
+I hope this helps! Let me know if you have any other questions.
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.
+Label: Entailment
+2. A crowd is dancing
+Label: Neutral
+3. Two doctors perform surgery on patient.
+Label: Entailment
+4. Two surgeons are having lunch.
+Label: Contradiction
+5. Two doctors perform surgery on patient.
+Label: Entailment
+
+Please note that the labels are based on the information provided in the sentence pairs and do not take into account any additional context or information that may be relevant.
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. A white dog with long hair jumps to catch a red and green toy.
+Label: Entailment
+2. A white dog with long hair is swimming underwater.
+Label: Contradiction
+3. A white dog with long hair jumps to catch a red and green toy.
+Label: Entailment
+4. Kids are on a amusement ride.
+Label: Entailment
+5. A car is broke down on the side of the road.
+Label: Neutral
+
+Please note that the labels are based on the information provided in each sentence pair and do not take into account any additional context or information that may be relevant.
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. Kids are on an amusement ride. </s> Kids ride an amusement ride.
+Label: Entailment
+
+2. A man in a black shirt is playing golf outside. </s> A man plays on a golf course to relax.
+Label: Entailment
+
+3. A man in a black shirt is playing golf outside. </s> The man in the black shirt trades Pokemon cards with his girlfriend.
+Label: Contradiction
+
+4. A man in a black shirt is playing golf outside. </s> The man wearing the black shirt plays a game of golf.
+Label: Entailment
+
+5. An older gentleman finds it humorous that he is getting his picture taken while doing his laundry. </s> a blond man laughs while doing laundry
+Label: Neutral
+Sure, I'd be happy to help! Here are the labels for each of the sentence pairs you provided:
+
+1. A older gentleman finds it humorous that he is getting his picture taken while doing his laundry. </s> a guy laughs while doing laundry
+
+Label: Entailment
+
+2. A older gentleman finds it humorous that he is getting his picture taken while doing his laundry. </s> two ladies pin clothes to dry
+
+Label: Neutral
+
+3. An Indian woman is washing and cleaning dirty laundry at a lake and in the background is a kid who appears to have jumped into the lake. </s> An Indian woman is doing her laundry in a lake.
+
+Label: Contradiction
+
+4. An Indian woman is washing and cleaning dirty laundry at a lake and in the background is a kid who appears to have jumped into the lake. </s> An Indian woman is putting her laundry into the machine.
+
+Label: Entailment
+
+5. An Indian woman is washing and cleaning dirty laundry at a lake and in the background is a kid who appears to have jumped into the lake. </s> An Indian woman is doing laundry for her son in the lake.
+
+Label: Entailment
+
+I hope this helps! Let me know if you have any further questions.
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. Label: Entailment
+
+Premise: A man in a green jersey and rollerskates stumbles as a man in a black jersey appears to collide with him.
+
+Hypothesis: They are driving cars.
+
+The premise suggests that the two men are engaging in some kind of physical activity, and the hypothesis suggests that they are driving cars, which is not a compatible activity.
+
+2. Label: Contradiction
+
+Premise: A man in a green jersey and rollerskates stumbles as a man in a black jersey appears to collide with him.
+
+Hypothesis: They both fall to the ground.
+
+The premise suggests that one of the men stumbled and appeared to collide with the other, but the hypothesis suggests that both men fell to the ground, which is not a logical consequence of the premise.
+
+3. Label: Neutral
+
+Premise: A man in a green jersey and rollerskates stumbles as a man in a black jersey appears to collide with him.
+
+Hypothesis: The man stumbles stumbles in rollerskates.
+
+There is no clear relationship between the premise and the hypothesis, as the premise only suggests that one of the men stumbled, and the hypothesis simply repeats that fact.
+
+4. Label: Entailment
+
+Premise: A group of onlookers glance at a person doing a strange trick on her head.
+
+Hypothesis: A boy does a card trick.
+
+The premise suggests that the onlookers are paying attention to someone doing a strange trick, and the hypothesis suggests that the person doing the trick is a boy, which is a logical consequence of the premise.
+
+5. Label: Neutral
+
+Premise: A group of onlookers glance at a person doing a strange trick on her head.
+
+Hypothesis: Onlookers are impressed by the trick.
+
+There is no clear relationship between the premise and the hypothesis, as the premise only suggests that the onlookers are paying attention to the trick, and the hypothesis simply states that they are impressed, which is not a logical consequence of the premise.
+
+I hope this helps! Let me know if you have any other questions.
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. A group of onlookers glance at a person doing a strange trick on her head.
+Label: Neutral
+2. The middle eastern woman wearing the pink headscarf is walking beside a woman in a purple headscarf.
+Label: Entailment
+3. The middle eastern woman wearing the pink headscarf is walking beside a woman in a purple headscarf.
+Label: Entailment
+4. A taxi SUV drives past an urban construction site, as a man walks down the street in the other direction.
+Label: Contradiction
+5. A taxi SUV drives past an urban construction site, as a man walks down the street in the other direction.
+Label: Contradiction
+
+Here's a brief explanation for each label:
+
+1. Neutral: There is no clear relationship between the Premise and the Hypothesis.
+2. Entailment: The Premise logically implies the Hypothesis. The Hypothesis is a logical consequence of the Premise.
+3. Entailment: The Premise logically implies the Hypothesis. The Hypothesis is a logical consequence of the Premise.
+4. Contradiction: The Hypothesis is incompatible with the Premise.
+5. Contradiction: The Hypothesis is incompatible with the Premise.
+
+I hope this helps! Let me know if you have any further questions.
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. A taxi SUV drives past an urban construction site, as a man walks down the street in the other direction.
+Label: Neutral
+2. People wearing red shirts are standing in a large pool of water as it splashes over and around them.
+Label: Entailment
+3. People wearing red shirts are standing in a large pool of water as it splashes over and around them.
+Label: Neutral
+4. A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background.
+Label: Entailment
+5. A tall person in a shirt
+Label: Contradiction
+
+Please note that the labels are based on the information provided in each sentence pair and do not take into account any additional context or information that may be relevant.
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background.
+Label: Entailment
+2. A man is wearing a white shirt
+Label: Neutral
+3. He is Polish.
+Label: Contradiction
+4. He is playing a saxophone.
+Label: Contradiction
+5. A man is singing into a microphone.
+Label: Entailment
+
+Please note that the labels are based on the information provided in each sentence pair and do not take into account any additional context or information that may be relevant.
+Sure, I'd be happy to help! Here are the labels for each of the sentence pairs you provided:
+
+1. Women and children sitting outside in the shade while a group of younger children sitting inside in the shade. </s> It is very sunny outside.
+
+Label: Entailment
+
+2. Women and children sitting outside in the shade while a group of younger children sitting inside in the shade. </s> The woman and kids and sitting down.
+
+Label: Neutral
+
+3. Women and children sitting outside in the shade while a group of younger children sitting inside in the shade. </s> The woman is running.
+
+Label: Contradiction
+
+4. A pregnant lady singing on stage while holding a flag behind her. </s> A woman is sick in bed.
+
+Label: Contradiction
+
+5. A pregnant lady singing on stage while holding a flag behind her. </s> A woman is making music.
+
+Label: Entailment
+
+I hope this helps! Let me know if you have any other questions.
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. A pregnant lady singing on stage while holding a flag behind her. </s> A lady is participating in a talent show.
+Label: Entailment
+
+2. The two farmers are working on a piece of John Deere equipment. </s> Men are working on John Deere equipment
+Label: Entailment
+
+3. The two farmers are working on a piece of John Deere equipment. </s> John Deere equipment is being worked on by two farmers
+Label: Entailment
+
+4. The two farmers are working on a piece of John Deere equipment. </s> 2 Men are making a pool together
+Label: Contradiction
+
+5. A little boy in a blue shirt holding a toy. </s> Boy dressed in blue carrying toy to a toybox.
+Label: Neutral
+Sure, I'd be happy to help! Here are the labels for each of the sentence pairs you provided:
+
+1. Boy dressed in red lighting things on fire. Label: Contradiction
+2. Boy dressed in blue holds a toy. Label: Entailment
+3. The woman is writing a grocery list. Label: Entailment
+4. The woman is talking on the phone. Label: Neutral
+5. The woman is writing a note. Label: Entailment
+
+I hope this helps! Let me know if you have any other questions.
+Sure, I'd be happy to help! Here are the predicted labels for each sentence pair:
+
+1. A baby at the end of a slip and slide at a party </s> The baby is wet.
+Label: Entailment
+2. A baby at the end of a slip and slide at a party </s> The man is at the end of the slip and slide
+Label: Contradiction
+3. A baby at the end of a slip and slide at a party </s> There is a party
+Label: Entailment
+4. A girl swings high in the air. </s> A girl is gaining momentum to flip off the swing
+Label: Entailment
+5. A girl swings high in the air. </s> A girl is laying in the pool
+Label: Neutral
+
+Please note that the labels are based on the information provided and may not always be accurate or complete.
